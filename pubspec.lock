@@ -262,30 +262,24 @@ packages:
   video_player:
     dependency: "direct main"
     description:
-      path: "packages/video_player/video_player"
-      ref: develop2
-      resolved-ref: eae4da1dee1e30c545441ff06d360a9a6adaf143
-      url: "https://github.com/recastrodiaz/plugins.git"
-    source: git
-    version: "2.0.0-nullsafety.100"
+      name: video_player
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.1"
   video_player_platform_interface:
     dependency: transitive
     description:
-      path: "packages/video_player/video_player_platform_interface"
-      ref: develop2
-      resolved-ref: eae4da1dee1e30c545441ff06d360a9a6adaf143
-      url: "https://github.com/recastrodiaz/plugins.git"
-    source: git
-    version: "3.0.0-nullsafety.3"
+      name: video_player_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.1.0"
   video_player_web:
     dependency: transitive
     description:
-      path: "packages/video_player/video_player_web"
-      ref: develop2
-      resolved-ref: eae4da1dee1e30c545441ff06d360a9a6adaf143
-      url: "https://github.com/recastrodiaz/plugins.git"
-    source: git
-    version: "2.0.0-nullsafety.2"
+      name: video_player_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   video_thumbnail:
     dependency: "direct main"
     description:
